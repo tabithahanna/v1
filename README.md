@@ -8,5 +8,12 @@ Team :
 - (CC) C2297F2526 - Nikita Alicia Juliet Afifah  - Universitas Pembangunan Nasional Veteran Yogyakarta
 - (CC) C2404F2970 - Ikmal Erfiansyah - Politeknik Negeri Batam
 
+--
+Machine Learning
+[https://github.com/CapstoneBangkit22/File-Qutubuqu](url)
+Cloud Computing
+[https://github.com/CapstoneBangkit22/HapiApi-Qutubuqu](url)
+Mobile Development
+[https://github.com/CapstoneBangkit22/Mobile-Development-Qutubuqu-app](url)
 
 Bangkit Academy
