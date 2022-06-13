@@ -9,4 +9,10 @@ Team :
 - (CC) C2404F2970 - Ikmal Erfiansyah - Politeknik Negeri Batam
 
 
-Bangkit Academy
+**Documentation for each learning path:**
+Machine Learning
+[https://github.com/CapstoneBangkit22/File-Qutubuqu](url)
+Cloud Computing
+[https://github.com/CapstoneBangkit22/HapiApi-Qutubuqu](url)
+Mobile Development
+[https://github.com/CapstoneBangkit22/Mobile-Development-Qutubuqu-app](url)
